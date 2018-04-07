@@ -1,7 +1,7 @@
 /* global chrome, io */
 (function () {
   // change to your server url
-  const SERVER_URL = 'https://nico-nico-speenya.herokuapp.com/'
+  const SERVER_URL = 'https://trasta-share.herokuapp.com/'
   const APP_ID = chrome.runtime.id
   const APP_VERSION = chrome.runtime.getManifest().version
 
